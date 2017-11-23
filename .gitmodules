@@ -1,3 +1,6 @@
 [submodule "aind2-rnn"]
 	path = aind2-rnn
 	url = https://github.com/paulraj/aind2-rnn
+[submodule "dog-project"]
+	path = dog-project
+	url = https://github.com/paulraj/dog-project.git
