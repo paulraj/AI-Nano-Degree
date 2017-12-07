@@ -4,3 +4,6 @@
 [submodule "dog-project"]
 	path = dog-project
 	url = https://github.com/paulraj/dog-project.git
+[submodule "AIND-CV-FacialKeypoints"]
+	path = AIND-CV-FacialKeypoints
+	url = https://github.com/paulraj/AIND-CV-FacialKeypoints
